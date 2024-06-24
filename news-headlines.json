@@ -1,0 +1,44 @@
+{
+    "articles": [
+        {
+            "headline": "President Duterte Signs New Law Boosting Education Funding",
+            "url": "news1.html"
+        },
+        {
+            "headline": "Senate Passes Bill for Universal Healthcare Coverage",
+            "url": "news2.html"
+        },
+        {
+            "headline": "Philippines Condemns Foreign Vessel Intrusion in West Philippine Sea",
+            "url": "news3.html"
+        },
+        {
+            "headline": "Philippines and Japan Strengthen Maritime Cooperation",
+            "url": "news4.html"
+        },
+        {
+            "headline": "Filipino Film Wins Prestigious International Award",
+            "url": "news5.html"
+        },
+        {
+            "headline": "Popular Filipino Band Announces Reunion Concert",
+            "url": "news6.html"
+        },
+        {
+            "headline": "Traditional Bini Dance Festival Celebrates Cultural Heritage",
+            "url": "news7.html"
+        },
+        {
+            "headline": "Local Artist Crafts Intricate Bini-inspired Art Installation",
+            "url": "news8.html"
+        },
+        {
+            "headline": "Philippine Economy Shows Strong Recovery in Second Quarter",
+            "url": "news9.html"
+        },
+        {
+            "headline": "Philippines Launches New Tourism Campaign to Boost Visitor Arrivals",
+            "url": "news10.html"
+        }
+    ]
+}
